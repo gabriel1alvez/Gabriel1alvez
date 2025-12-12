@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Opa, eu sou o Gabriel Alves
 
-<!--
-**gabriel1alvez/Gabriel1alvez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou movido por curiosidade, tecnologia e pela vontade de transformar operações complexas em rotinas mais inteligentes. Trabalho todos os dias conectando dados, pessoas e processos — sempre buscando aquela melhoria que faz diferença no fluxo, no time e no resultado final.
 
-Here are some ideas to get you started:
+Minha trajetória mistura análise de dados, suporte a sistemas, operação logística e atendimento corporativo. Essa combinação me deu algo que valorizo muito: visão de ponta a ponta. Entendo o que acontece no campo, o que trava no sistema e o que precisa aparecer no dashboard para tudo fluir.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Gosto de resolver problemas, estruturar informações e criar soluções práticas. 
+
+---
+
+## 🚀 Como eu atuo
+
+- Transformo dados em ações, criando dashboards e análises que realmente ajudam na tomada de decisão.
+- Parametrizo e implemento sistemas, garantindo que a tecnologia funcione alinhada ao negócio.
+- Apoio times e clientes com suporte técnico direto, comunicação clara e foco total na experiência.
+- Mapeio processos, reviso fluxos e aponto gaps — sempre com mentalidade de melhoria contínua.
+- Trabalho com visão colaborativa, ajudando colegas e construindo um ambiente mais eficiente.
+
+---
+
+## 🛠️ Minhas ferramentas do dia a dia
+
+**Tecnologia e Dados**  
+- Power BI  
+- Excel avançado
+- Looker
+- Manipulação e cargas de dados  
+- Dashboards e relatórios corporativos  
+- Parametrização e configuração de sistemas  
+
+**Operações e Suporte**  
+- Help Desk N1/N2  
+- Documentação técnica e criação de manuais  
+- Auditoria de informações e controles internos  
+
+---
+
+## 🌱 O que me move
+
+- Curiosidade e vontade de aprender  
+- Pensamento analítico  
+- Mentalidade de dono  
+- Senso de equipe  
+- Busca constante por eficiência  
+- Comunicação direta e colaborativa  
+
+---
+
+## 🌐 Vamos nos conectar?
+
+https://www.linkedin.com/in/gabriel-nabor-alves-/
+---
+
+💡 *Fail, fail again, fail better.*
